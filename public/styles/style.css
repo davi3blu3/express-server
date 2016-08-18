@@ -1,0 +1,21 @@
+body {
+    background: #585;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px;
+}
+
+.btn-group {
+    
+}
+
+.btn {
+    background: #ccc;
+    border: 1px solid black;
+    display: inline;
+    padding: 15px;
+    margin: 10px;
+    font-weight: 700;
+}
