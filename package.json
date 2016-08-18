@@ -1,0 +1,24 @@
+{
+  "name": "express-servr",
+  "version": "1.0.0",
+  "description": "basic express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi3blu3/express-server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "server"
+  ],
+  "author": "davi3blu3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davi3blu3/express-server/issues"
+  },
+  "homepage": "https://github.com/davi3blu3/express-server#readme"
+}
